@@ -1,0 +1,14 @@
+/Users/m.u.t/Desktop/University_S-2.1/GP1/MuhammedUsameToktas_Gp1_MidTerm/bin/Debug/net8.0/MuhammedUsameToktas_Gp1_MidTerm
+/Users/m.u.t/Desktop/University_S-2.1/GP1/MuhammedUsameToktas_Gp1_MidTerm/bin/Debug/net8.0/MuhammedUsameToktas_Gp1_MidTerm.deps.json
+/Users/m.u.t/Desktop/University_S-2.1/GP1/MuhammedUsameToktas_Gp1_MidTerm/bin/Debug/net8.0/MuhammedUsameToktas_Gp1_MidTerm.runtimeconfig.json
+/Users/m.u.t/Desktop/University_S-2.1/GP1/MuhammedUsameToktas_Gp1_MidTerm/bin/Debug/net8.0/MuhammedUsameToktas_Gp1_MidTerm.dll
+/Users/m.u.t/Desktop/University_S-2.1/GP1/MuhammedUsameToktas_Gp1_MidTerm/bin/Debug/net8.0/MuhammedUsameToktas_Gp1_MidTerm.pdb
+/Users/m.u.t/Desktop/University_S-2.1/GP1/MuhammedUsameToktas_Gp1_MidTerm/obj/Debug/net8.0/MuhammedUsameToktas_Gp1_MidTerm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m.u.t/Desktop/University_S-2.1/GP1/MuhammedUsameToktas_Gp1_MidTerm/obj/Debug/net8.0/MuhammedUsameToktas_Gp1_MidTerm.AssemblyInfoInputs.cache
+/Users/m.u.t/Desktop/University_S-2.1/GP1/MuhammedUsameToktas_Gp1_MidTerm/obj/Debug/net8.0/MuhammedUsameToktas_Gp1_MidTerm.AssemblyInfo.cs
+/Users/m.u.t/Desktop/University_S-2.1/GP1/MuhammedUsameToktas_Gp1_MidTerm/obj/Debug/net8.0/MuhammedUsameToktas_Gp1_MidTerm.csproj.CoreCompileInputs.cache
+/Users/m.u.t/Desktop/University_S-2.1/GP1/MuhammedUsameToktas_Gp1_MidTerm/obj/Debug/net8.0/MuhammedUsameToktas_Gp1_MidTerm.dll
+/Users/m.u.t/Desktop/University_S-2.1/GP1/MuhammedUsameToktas_Gp1_MidTerm/obj/Debug/net8.0/refint/MuhammedUsameToktas_Gp1_MidTerm.dll
+/Users/m.u.t/Desktop/University_S-2.1/GP1/MuhammedUsameToktas_Gp1_MidTerm/obj/Debug/net8.0/MuhammedUsameToktas_Gp1_MidTerm.pdb
+/Users/m.u.t/Desktop/University_S-2.1/GP1/MuhammedUsameToktas_Gp1_MidTerm/obj/Debug/net8.0/MuhammedUsameToktas_Gp1_MidTerm.genruntimeconfig.cache
+/Users/m.u.t/Desktop/University_S-2.1/GP1/MuhammedUsameToktas_Gp1_MidTerm/obj/Debug/net8.0/ref/MuhammedUsameToktas_Gp1_MidTerm.dll
