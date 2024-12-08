@@ -9,13 +9,13 @@ The ASCII Arts dosent belong to me. I made changes on them but I taked them from
 
 
 
-        __/\__
-   . _  \\''//
-   -( )-/_||_\
-    .'. \_()_/       
-     |   | . \
-     |.  | .  \
-    .'. ,\_____'.    
+         __/\__
+    . _  \\''//
+    -( )-/_||_\
+     .'. \_()_/       
+      |   | . \
+      |.  | .  \
+     .'. ,\_____'.    
 
 
 I want to create the old retro text based adventure game feel with this project.
